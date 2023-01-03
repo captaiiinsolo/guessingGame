@@ -62,3 +62,8 @@ main {
 #score {
     width: 33%;
 }
+
+.timer {
+    border: red;
+    border-width: 20px;
+}
