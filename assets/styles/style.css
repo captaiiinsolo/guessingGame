@@ -64,6 +64,13 @@ main {
 }
 
 .timer {
-    border: red;
-    border-width: 20px;
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    font-weight: bold;
+    color: #8b0000;
+}
+
+.gameWord {
+    font-size: 3rem;
+    margin: 1rem;
 }
